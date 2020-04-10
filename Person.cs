@@ -7,6 +7,6 @@ public class Person
 
     public void GetNameAndAge { } 
     {
-        Console.WriteLine("Rge Person Has name : {0} and age : {1}", Name, Age);    
+        Console.WriteLine("The Person Has name : {0} and age : {1}", Name, Age);    
     }
 }
