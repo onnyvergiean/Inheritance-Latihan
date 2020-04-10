@@ -1,0 +1,13 @@
+I:\AMIKOM\sem 2\Pemrograman\Inheritance Latihan\InheritanceLatihan\bin\Debug\netcoreapp3.1\InheritanceLatihan.exe
+I:\AMIKOM\sem 2\Pemrograman\Inheritance Latihan\InheritanceLatihan\bin\Debug\netcoreapp3.1\InheritanceLatihan.deps.json
+I:\AMIKOM\sem 2\Pemrograman\Inheritance Latihan\InheritanceLatihan\bin\Debug\netcoreapp3.1\InheritanceLatihan.runtimeconfig.json
+I:\AMIKOM\sem 2\Pemrograman\Inheritance Latihan\InheritanceLatihan\bin\Debug\netcoreapp3.1\InheritanceLatihan.runtimeconfig.dev.json
+I:\AMIKOM\sem 2\Pemrograman\Inheritance Latihan\InheritanceLatihan\bin\Debug\netcoreapp3.1\InheritanceLatihan.dll
+I:\AMIKOM\sem 2\Pemrograman\Inheritance Latihan\InheritanceLatihan\bin\Debug\netcoreapp3.1\InheritanceLatihan.pdb
+I:\AMIKOM\sem 2\Pemrograman\Inheritance Latihan\InheritanceLatihan\obj\Debug\netcoreapp3.1\InheritanceLatihan.csprojAssemblyReference.cache
+I:\AMIKOM\sem 2\Pemrograman\Inheritance Latihan\InheritanceLatihan\obj\Debug\netcoreapp3.1\InheritanceLatihan.csproj.CoreCompileInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\Inheritance Latihan\InheritanceLatihan\obj\Debug\netcoreapp3.1\InheritanceLatihan.AssemblyInfoInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\Inheritance Latihan\InheritanceLatihan\obj\Debug\netcoreapp3.1\InheritanceLatihan.AssemblyInfo.cs
+I:\AMIKOM\sem 2\Pemrograman\Inheritance Latihan\InheritanceLatihan\obj\Debug\netcoreapp3.1\InheritanceLatihan.dll
+I:\AMIKOM\sem 2\Pemrograman\Inheritance Latihan\InheritanceLatihan\obj\Debug\netcoreapp3.1\InheritanceLatihan.pdb
+I:\AMIKOM\sem 2\Pemrograman\Inheritance Latihan\InheritanceLatihan\obj\Debug\netcoreapp3.1\InheritanceLatihan.genruntimeconfig.cache
